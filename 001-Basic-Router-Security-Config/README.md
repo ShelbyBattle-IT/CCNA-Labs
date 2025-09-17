@@ -18,7 +18,7 @@ Configure basic router security between two routers (R1 and R2) using Cisco Pack
 8. Verify configuration.  
 
 # Files
-- Packet Tracer file: `001-Basic Router Security Config-1.pkt`  
+- Packet Tracer file: `001-Basic Router Security Config-1.pkt`
 - Screenshots:  
   - `Screenshot running-config-R1.png`  
   - `screenshot-running-config-R2.png`  
